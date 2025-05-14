@@ -1,4 +1,4 @@
-# ChirpChecker Payment Integration Demo
+# Payment Integration Demo
 
 ## Project Objectives
 - Validate PayPal payment flows (one-time and recurring) interactively with a Jupyter notebook.
