@@ -7,7 +7,7 @@
 
 ## Clone from GitHub
 ```bash
-git clone https://github.com/your-username/PayPal_Subscription.git
+git clone https://github.com/NoManNayeem/PayPal_Subscription.git
 cd PayPal_Subscription
 ```
 
