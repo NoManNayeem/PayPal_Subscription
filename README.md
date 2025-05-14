@@ -1,4 +1,4 @@
-# Payment Integration Demo
+# Paypal Payment Integration Demo
 
 ## Project Objectives
 - Validate PayPal payment flows (one-time and recurring) interactively with a Jupyter notebook.
@@ -7,7 +7,7 @@
 
 ## Clone from GitHub
 ```bash
-git clone https://github.com/your-username/chirpchecker-payment-demo.git
+git clone https://github.com/your-username/PayPal_Subscription.git
 cd PayPal_Subscription
 ```
 
